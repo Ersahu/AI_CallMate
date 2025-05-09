@@ -90,7 +90,9 @@ We welcome pull requests! For major changes, please open an issue to discuss wha
 
 ## 📧 Contact
 **Developer**: Vaibhav
+
 **Email**: sahuvaibhav064@gmail.com
+
 **LinkedIn**: https://www.linkedin.com/in/vaibhav-chaudhary-615712272/
 
 ## 📜 License
